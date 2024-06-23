@@ -9,6 +9,7 @@ export {
   OpenDirectory,
   PreopenDirectory,
   ConsoleStdout,
+  Path,
 } from "./fs_mem.js";
 export { SyncOPFSFile, OpenSyncOPFSFile } from "./fs_opfs.js";
 export { strace } from "./strace.js";

@@ -505,7 +505,7 @@ export class File extends Inode {
   }
 }
 
-class Path {
+export class Path {
   parts: string[] = [];
   is_dir: boolean = false;
 
