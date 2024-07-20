@@ -1,8 +1,8 @@
 {
-  "name": "browser_wasi_shim_tweak",
+  "name": "browser_wasi_shim_gaiden",
   "version": "0.3.1",
   "license": "MIT OR Apache-2.0",
-  "description": "Slightly tweaked browser_wasi_shim",
+  "description": "Slightly modified browser_wasi_shim",
   "type": "module",
   "scripts": {
     "build": "swc src -d dist -s true && tsc --emitDeclarationOnly",
