@@ -67,7 +67,7 @@
     "clone-response": "^1.0.3",
     "concat-map": "^0.0.1",
     "cacheable-request": "^7.0.2",
-    "cross-spawn": "^5.1.0",
+    "cross-spawn": "^7.0.6",
     "content-disposition": "^0.5.4",
     "decompress-response": "^6.0.0",
     "commander": "^7.2.0",
@@ -214,5 +214,8 @@
     "yallist": "^2.1.2",
     "yocto-queue": "^0.1.0",
     "uri-js": "^4.4.1"
+  },
+  "overrides": {
+    "cross-spawn": "^7.0.6"
   }
 }
