@@ -1,6 +1,6 @@
 {
   "name": "browser_wasi_shim_gaiden",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "license": "MIT OR Apache-2.0",
   "description": "Slightly modified browser_wasi_shim",
   "type": "module",
